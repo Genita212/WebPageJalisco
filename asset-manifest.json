@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebPageJalisco.git/static/css/main.7deb237d.css",
+    "main.js": "/WebPageJalisco.git/static/js/main.e149051b.js",
+    "static/js/787.6e953d1e.chunk.js": "/WebPageJalisco.git/static/js/787.6e953d1e.chunk.js",
+    "index.html": "/WebPageJalisco.git/index.html",
+    "main.7deb237d.css.map": "/WebPageJalisco.git/static/css/main.7deb237d.css.map",
+    "main.e149051b.js.map": "/WebPageJalisco.git/static/js/main.e149051b.js.map",
+    "787.6e953d1e.chunk.js.map": "/WebPageJalisco.git/static/js/787.6e953d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7deb237d.css",
+    "static/js/main.e149051b.js"
+  ]
+}
