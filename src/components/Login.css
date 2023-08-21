@@ -1,0 +1,24 @@
+.Principal{
+  background-color: #434242;
+  min-height: 100vh;
+  display: flex;    
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 100px;
+    -webkit-text-stroke: 1px white;
+    color: rgb(239, 121, 30);
+    text-align: center;
+  }
+
+  .logi{
+    -webkit-text-stroke: 0.5px white;
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(239, 121, 30);
+  }
